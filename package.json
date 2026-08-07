@@ -1,0 +1,9 @@
+{
+  "name": "gg-esports-radar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GG Radar — رادار أخبار الإيسبورتس العالمي لـ GGNewsAR",
+  "dependencies": {
+    "@google/genai": "latest"
+  }
+}
